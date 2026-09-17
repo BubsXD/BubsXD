@@ -1,6 +1,6 @@
 # About Me:
 
-<img align="right" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" width="250" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Digital_rain_animation_medium_letters_shine.gif">
 
 🎓 AI and Data Science Student
 
