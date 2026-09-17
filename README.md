@@ -1,6 +1,6 @@
 # About Me:
 
-<img align="right" width="250" src="https://commons.wikimedia.org/wiki/Special:FilePath/Digital_rain_animation_medium_letters_shine.gif">
+<img align="right" width="300" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&background=00000000&center=false&vCenter=true&width=300&height=150&lines=import+ai_ml;from+data+import+science;while(learning)%3A;++build()">
 
 🎓 AI and Data Science Student
 
