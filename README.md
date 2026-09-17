@@ -1,5 +1,7 @@
 # About Me:
 
+<img align="right" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
 🎓 AI and Data Science Student
 
 🌐 Passionate about AI/ML, GenAI and Data Science
@@ -7,6 +9,8 @@
 🚀 Always learning, building, and sharing
 
 💬 Ask me about AI/ML
+
+<br clear="right"/>
 
 ## 💻 Tech Stack:
 
